@@ -1,7 +1,7 @@
 # Website for the UT CS HCI Lab
 
 Can be deployed at https://utcshci.utexas.edu/.
-
+Currently deployed at https://ut-cs-hci.github.io/.
 The setup is inspired by https://github.com/cmudig/cmudig.github.io and https://github.com/interactive-structures/interactive-structures.github.io. 
 
 ## Run
